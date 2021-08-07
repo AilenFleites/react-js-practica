@@ -1,0 +1,5 @@
+export { Precio } from "./Precio"
+export { Form } from "./Form"
+export { Fecha } from "./Fecha"
+export { Pagina } from "./Pagina"
+export { Puntaje} from "./Puntaje"
